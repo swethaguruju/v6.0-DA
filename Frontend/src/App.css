@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  Padding: 0;
+}
+
+body {
+  font-family: "Helvetica", Monospace;
+  background:#375a7f
+  ;
+}
+
+.App {
+  text-align: center;
+}
