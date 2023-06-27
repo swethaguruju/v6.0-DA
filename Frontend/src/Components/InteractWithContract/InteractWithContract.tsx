@@ -3,7 +3,7 @@ import "./InteractwithContract.css";
 import React from "react";
 import {ethers} from "ethers";
 
-import ABI from "/Users/swethaguruju/Desktop/v6.0 DA/Frontend/src/artifacts/contracts/BasicDutchAuction.sol/BasicDutchAuction.json";
+import ABI from "../../artifacts/contracts/BasicDutchAuction.sol/BasicDutchAuction.json";
 
 
 class InteractWithContract extends React.Component{

@@ -1,7 +1,7 @@
 import "./DeployContract.css";
 import React from "react";
 import {ethers} from "ethers";
-import ABI from '/Users/swethaguruju/Desktop/v6.0 DA/Frontend/src/artifacts/contracts/BasicDutchAuction.sol/BasicDutchAuction.json';
+import ABI from '../../artifacts/contracts/BasicDutchAuction.sol/BasicDutchAuction.json';
 
 
 class DeployContract extends React.Component {
